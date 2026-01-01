@@ -1,0 +1,1 @@
+# Physics-guided-degradation-trajectory-modeling-for-RUL-prediction-of-rolling-bearings
